@@ -1,0 +1,2 @@
+/Users/ibrahim/anaconda3/envs/unstructured/bin/python /Users/ibrahim/Desktop/unstructured-main/unstructured/ingest/main.py local --input-path "resimler/bisiklet.png" --strategy "hi_res" --pdf-infer-table-structure
+
